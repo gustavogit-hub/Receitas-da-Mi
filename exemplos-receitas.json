@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1708799999999,
+    "nome": "Brigadeiro Caseiro",
+    "autor": "Receita Padrão",
+    "categoria": "Doces",
+    "tempo": 15,
+    "porcoes": 24,
+    "ingredientes": "1 lata de leite condensado\n4 colheres de sopa de chocolate em pó\n2 colheres de sopa de manteiga\nGrânulos de chocolate para cobertura",
+    "modo": "1. Coloque o leite condensado em uma panela\n2. Adicione o chocolate em pó e mexa bem\n3. Cozinhe em fogo médio mexendo constantemente\n4. Quando a mistura desgrudar do fundo, retire do fogo\n5. Deixe esfriar\n6. Com as mãos untadas, faça bolinhas\n7. Passe na cobertura de chocolate gratificado",
+    "imagem": "https://images.unsplash.com/photo-1599599810694-b5ac4dd64b11?w=400&h=300&fit=crop",
+    "observacoes": "Cuidado ao mexer - fica muito quente!\nDica: coloque em capacinhos de papel para ficar bonito\nPode guardar em potinho fechado por até uma semana",
+    "dataCriacao": "24/02/2026"
+  },
+  {
+    "id": 1708799999998,
+    "nome": "Bolo de Cenoura com Cobertura de Chocolate",
+    "autor": "Receita Padrão",
+    "categoria": "Doces",
+    "tempo": 50,
+    "porcoes": 10,
+    "ingredientes": "3 cenouras médias raladas\n1/2 xícara de óleo\n3 ovos\n2 xícaras de farinha de trigo\n1 1/2 xícara de açúcar\n2 colheres de sopa de fermento\nPinça de sal\n\nCobertura:\n1/2 xícara de chocolate em pó\n1 lata de leite condensado\n1 colher de manteiga",
+    "modo": "Massa:\n1. Bata o óleo, ovos e açúcar\n2. Adicione as cenouras raladas\n3. Misture a farinha, fermento e sal\n4. Coloque em forma untada\n5. Asse a 180°C por 35-40 minutos\n6. Deixe esfriar\n\nCobertura:\n1. Misture chocolate em pó, leite condensado e manteiga\n2. Cozinhe em fogo médio mexendo sempre\n3. Despeje sobre o bolo ainda morno",
+    "imagem": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=400&h=300&fit=crop",
+    "observacoes": "A cenoura deixa o bolo mais macio e úmido\nDica: use um palito para verificar se está pronto\nCom a cobertura de chocolate fica ainda melhor!",
+    "dataCriacao": "24/02/2026"
+  },
+  {
+    "id": 1708799999997,
+    "nome": "Pavê de Chocolate",
+    "autor": "Receita Padrão",
+    "categoria": "Sobremesas",
+    "tempo": 30,
+    "porcoes": 8,
+    "ingredientes": "1 pacote de biscoito champagne\n1 lata de leite condensado\n4 colheres de sopa de chocolate em pó\n2 colheres de sopa de manteiga\n1 pote de requeijão (500g)\n1 xícara de leite\nSprinkles de chocolate\nCalda de chocolate para cobertura",
+    "modo": "1. Prepare o creme de chocolate: cozinhe leite condensado, chocolate em pó e manteiga\n2. Deixe esfriar\n3. Misture o requeijão ao creme de chocolate\n4. Passe leite nos biscoitos (mergulhe rápido)\n5. Monte as camadas: biscoito, creme, biscoito, creme...\n6. Finalize com requeijão\n7. Leve à geladeira por 2 horas mínimo\n8. Decore com cobertura de chocolate e sprinkles",
+    "imagem": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=400&h=300&fit=crop",
+    "observacoes": "Fica ainda melhor se preparado um dia antes!\nO biscoito champagne é essencial para o pavê ficar crocante\nCanela em pó também combina bem nessa receita",
+    "dataCriacao": "24/02/2026"
+  }
+]

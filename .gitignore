@@ -1,0 +1,27 @@
+# Node modules (se usar npm no futuro)
+node_modules/
+package-lock.json
+yarn.lock
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Build/dist
+dist/
+build/
+
+# Logs
+logs/
+*.log
